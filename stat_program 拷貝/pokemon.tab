@@ -1,0 +1,39 @@
+Feature 1	Type 1	Type 2	Total	HP	Attack	Defense	Sp. Atk	Sp. Def	Speed	Generation	Legendary	Selected	Name	Selected (1)
+continuous	discrete	discrete	continuous	continuous	continuous	continuous	continuous	continuous	continuous	continuous	discrete	discrete	string	discrete
+												class	meta	meta
+641.0	Flying		580.0	79.0	115.0	70.0	125.0	80.0	111.0	5.0	True	No	TornadusIncarnate Forme	No
+641.0	Flying		580.0	79.0	100.0	80.0	110.0	90.0	121.0	5.0	True	No	TornadusTherian Forme	No
+714.0	Flying	Dragon	245.0	40.0	30.0	35.0	45.0	40.0	55.0	6.0	False	No	Noibat	No
+715.0	Flying	Dragon	535.0	85.0	70.0	80.0	97.0	80.0	123.0	6.0	False	No	Noivern	No
+147.0	Dragon		300.0	41.0	64.0	45.0	50.0	50.0	50.0	1.0	False	No	Dratini	No
+148.0	Dragon		420.0	61.0	84.0	65.0	70.0	70.0	70.0	1.0	False	No	Dragonair	No
+149.0	Dragon	Flying	600.0	91.0	134.0	95.0	100.0	100.0	80.0	1.0	False	No	Dragonite	No
+334.0	Dragon	Flying	490.0	75.0	70.0	90.0	70.0	105.0	80.0	3.0	False	No	Altaria	No
+334.0	Dragon	Fairy	590.0	75.0	110.0	110.0	110.0	105.0	80.0	3.0	False	No	AltariaMega Altaria	No
+371.0	Dragon		300.0	45.0	75.0	60.0	40.0	30.0	50.0	3.0	False	No	Bagon	No
+372.0	Dragon		420.0	65.0	95.0	100.0	60.0	50.0	50.0	3.0	False	No	Shelgon	No
+373.0	Dragon	Flying	600.0	95.0	135.0	80.0	110.0	80.0	100.0	3.0	False	No	Salamence	No
+373.0	Dragon	Flying	700.0	95.0	145.0	130.0	120.0	90.0	120.0	3.0	False	No	SalamenceMega Salamence	No
+380.0	Dragon	Psychic	600.0	80.0	80.0	90.0	110.0	130.0	110.0	3.0	True	No	Latias	No
+380.0	Dragon	Psychic	700.0	80.0	100.0	120.0	140.0	150.0	110.0	3.0	True	No	LatiasMega Latias	No
+381.0	Dragon	Psychic	600.0	80.0	90.0	80.0	130.0	110.0	110.0	3.0	True	No	Latios	No
+381.0	Dragon	Psychic	700.0	80.0	130.0	100.0	160.0	120.0	110.0	3.0	True	No	LatiosMega Latios	No
+384.0	Dragon	Flying	680.0	105.0	150.0	90.0	150.0	90.0	95.0	3.0	True	No	Rayquaza	No
+384.0	Dragon	Flying	780.0	105.0	180.0	100.0	180.0	100.0	115.0	3.0	True	No	RayquazaMega Rayquaza	No
+443.0	Dragon	Ground	300.0	58.0	70.0	45.0	40.0	45.0	42.0	4.0	False	No	Gible	No
+444.0	Dragon	Ground	410.0	68.0	90.0	65.0	50.0	55.0	82.0	4.0	False	No	Gabite	No
+445.0	Dragon	Ground	600.0	108.0	130.0	95.0	80.0	85.0	102.0	4.0	False	No	Garchomp	No
+445.0	Dragon	Ground	700.0	108.0	170.0	115.0	120.0	95.0	92.0	4.0	False	No	GarchompMega Garchomp	No
+610.0	Dragon		320.0	46.0	87.0	60.0	30.0	40.0	57.0	5.0	False	No	Axew	No
+611.0	Dragon		410.0	66.0	117.0	70.0	40.0	50.0	67.0	5.0	False	No	Fraxure	No
+612.0	Dragon		540.0	76.0	147.0	90.0	60.0	70.0	97.0	5.0	False	No	Haxorus	No
+621.0	Dragon		485.0	77.0	120.0	90.0	60.0	90.0	48.0	5.0	False	No	Druddigon	No
+643.0	Dragon	Fire	680.0	100.0	120.0	100.0	150.0	120.0	90.0	5.0	True	No	Reshiram	No
+644.0	Dragon	Electric	680.0	100.0	150.0	120.0	120.0	100.0	90.0	5.0	True	No	Zekrom	No
+646.0	Dragon	Ice	660.0	125.0	130.0	90.0	130.0	90.0	95.0	5.0	True	No	Kyurem	No
+646.0	Dragon	Ice	700.0	125.0	170.0	100.0	120.0	90.0	95.0	5.0	True	No	KyuremBlack Kyurem	No
+646.0	Dragon	Ice	700.0	125.0	120.0	90.0	170.0	100.0	95.0	5.0	True	No	KyuremWhite Kyurem	No
+704.0	Dragon		300.0	45.0	50.0	35.0	55.0	75.0	40.0	6.0	False	No	Goomy	No
+705.0	Dragon		452.0	68.0	75.0	53.0	83.0	113.0	60.0	6.0	False	No	Sliggoo	No
+706.0	Dragon		600.0	90.0	100.0	70.0	110.0	150.0	80.0	6.0	False	No	Goodra	No
+718.0	Dragon	Ground	600.0	108.0	100.0	121.0	81.0	95.0	95.0	6.0	True	No	Zygarde50% Forme	No
